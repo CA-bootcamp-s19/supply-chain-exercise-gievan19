@@ -3,7 +3,7 @@
     Breaking changes from 0.4 to 0.5 can be found here: 
     https://solidity.readthedocs.io/en/v0.5.0/050-breaking-changes.html
 */
-
+// SPDX-License-Identifier: UNLICENSED
 pragma solidity >=0.5.0 <0.7.0;
 
 contract SupplyChain {
